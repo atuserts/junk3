@@ -4,7 +4,7 @@
     "DomStatesCounter": {},
     "WebKitExecutionDelay": 0,
     "ReuseAppWindow": 0,
-    "ProfilerResultsDirectory": null,
+    "ProfilerResultsDirectory": "C:\\Users\\atuser\\AppData\\Local\\Temp\\2\\",
     "ProfilerServerName": null,
     "ProfilerBenchmarkResultsFilePath": null,
     "ProfilerBenchmarkResultsId": "00000000-0000-0000-0000-000000000000",
@@ -13,48 +13,7 @@
     "CurrentReferences": [],
     "Steps": {
       "__type": "ArtOfTest.Common.Design.ProjectModel.AutomationStepList",
-      "__value": [
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "391c9901-b5a9-462e-81ea-1d7fa016a1d1",
-            "Description": "New Coded Step",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.CodedStepDescriptor",
-              "__value": {
-                "Code": "            ",
-                "RequiresSilverlight": false,
-                "WaitOnElements": true,
-                "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
-                "Pause": 0,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {},
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": true,
-            "Order": 1,
-            "Id": "WebTest_CodedStep",
-            "StepState": 1,
-            "ContinueOnFailure": false,
-            "StepImageKey": "WebTest0dygwe5k.3r2",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        }
-      ]
+      "__value": []
     },
     "IndependentDescriptors": [],
     "HtmlDescription": "",
@@ -68,10 +27,10 @@
     "UseDefaultWpfAppPath": false,
     "TestAssembly": "TestProject66.dll",
     "TestAssemblyPath": "bin",
-    "TestClass": "TestProject66.WebTest",
+    "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "WebTest.resx",
-    "HasCodeBehind": true,
+    "ResourceFilePath": "WebTest(1).resx",
+    "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
       "__value": {
@@ -100,13 +59,13 @@
     "QcTestVersionStamp": 0,
     "TestLinks": [],
     "Description": "",
-    "Name": "WebTest",
+    "Name": "WebTest(1)",
     "Owner": "",
-    "Path": "WebTest.tstest",
+    "Path": "WebTest(1).tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "8c5f22c3-fbdc-4e1b-98e9-84bfaa887291",
-    "Id": "8c5f22c3-fbdc-4e1b-98e9-84bfaa887291",
+    "UniqueId": "72005b89-b0f6-46d2-8e76-1fd347f60272",
+    "Id": "72005b89-b0f6-46d2-8e76-1fd347f60272",
     "ProjectId": "0c810a5f-7f77-473c-801f-7a4b3c5e9452",
     "Version": 200
   }
